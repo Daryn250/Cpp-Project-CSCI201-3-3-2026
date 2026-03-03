@@ -1,0 +1,5 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180
+Science,Quantum Physics 101,Albert Einstein,EBook,4.500000
+Fiction,The Dangerous Book of Evil,Dean Gray,Printed,3
+Mystery,The Necronomicon,Unknown!,Printed,45000
+Science,All 50 States and Their Capitols,Jim Bobbic Jones,Printed,26
